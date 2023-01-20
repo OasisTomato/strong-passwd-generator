@@ -5,7 +5,6 @@
   <br>
 </h1>
 
-![TheCrypt](readme/crypt.jpg)
 
 <h4 align="center">A minimal Password Manager / Generator</h4>
 
